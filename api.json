@@ -1,0 +1,44 @@
+[
+    {
+        "id": 17,
+        "amount": 4013.85,
+        "date": "2020-05-01T00:00:00",
+        "accountingUsersName": "EDA MAAŞ"
+    },
+    {
+        "id": 18,
+        "amount": 1337.01,
+        "date": "2020-05-01T00:00:00",
+        "accountingUsersName": "MESUT IŞKUR"
+    },
+    {
+        "id": 19,
+        "amount": 3996,
+        "date": "2020-06-01T00:00:00",
+        "accountingUsersName": "EDA MAAŞ"
+    },
+    {
+        "id": 20,
+        "amount": 1337.01,
+        "date": "2020-06-05T00:00:00",
+        "accountingUsersName": "MESUT IŞKUR"
+    },
+    {
+        "id": 21,
+        "amount": 155,
+        "date": "2020-06-01T00:00:00",
+        "accountingUsersName": "EDA SODEXO"
+    },
+    {
+        "id": 22,
+        "amount": 3790,
+        "date": "2020-07-01T00:00:00",
+        "accountingUsersName": "EDA MAAŞ"
+    },
+    {
+        "id": 23,
+        "amount": 1337.01,
+        "date": "2020-07-03T00:00:00",
+        "accountingUsersName": "MESUT IŞKUR"
+    }
+]
